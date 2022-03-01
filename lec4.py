@@ -43,3 +43,9 @@ print(my_car)
 
 print(len(my_car))
 
+v1 = (1, 2, 3)
+
+v2= [1, 1, 2, 2, 3, 4]
+
+print(len(v1))
+print(len(set(v2)))
